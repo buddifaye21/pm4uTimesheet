@@ -1,0 +1,18 @@
+header{
+    background-color: #478971;
+    border: solid;
+    border-color: navy;
+}
+img{
+    border: solid;
+    border-color: navy;
+}
+h1{
+    color: #ff8000;
+}
+p{
+    color: black;
+}
+td{
+    padding: 10px;
+}
